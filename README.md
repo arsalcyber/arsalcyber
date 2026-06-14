@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Arsal 👋
 
-<!--
-**arsalcyber/arsalcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Cybersecurity student passionate about ethical hacking, networking, and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Cybersecurity
+* Ethical Hacking
+* Networking
+* HTML/CSS
+* Linux Basics
+
+## Currently Learning
+
+* Ethical Hacking
+* Penetration Testing
+* Port Scanning
+* vulnerability assessment
+* Web Security
+
+## Connect With Me
+
+* LinkedIn
+* GitHub
